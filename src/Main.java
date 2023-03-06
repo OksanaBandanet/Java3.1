@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Ваше количество бонусов");
         int price = 156891;
         int percent = 20;
-        int bonus = price/percent;
+        int bonus = price / percent;
         System.out.println(bonus);
     }
 }
